@@ -33,9 +33,9 @@ async function buildBlogRSS() {
     link: 'https://antfu.me/',
     copyright: 'CC BY-NC-SA 4.0 2021 © Anthony Fu',
     feedLinks: {
-      json: 'https://antfu.me/feed.json',
-      atom: 'https://antfu.me/feed.atom',
-      rss: 'https://antfu.me/feed.xml',
+      json: 'https://flynncao.xyz/feed.json',
+      atom: 'https://flynncao.xyz/feed.atom',
+      rss: 'https://flynncao.xyz/feed.xml',
     },
   }
   const posts: any[] = (
