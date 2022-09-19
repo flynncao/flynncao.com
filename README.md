@@ -1,6 +1,7 @@
-**[antfu.me](https://antfu.me)**
 
 my personal website powered by [Vite](https://vitejs.dev/)
+
+This website is inspired by [antfu.me](https://antfu.me)  and used its core features.
 
 <br>
 

@@ -1,8 +1,10 @@
 ---
 title: Notes - Anthony Fu
-display: Notes
-subtitle: Quick notes / tips
-description: Quick notes / tips
+display: ''
+plum: true
 ---
 
-This page has been moved to [/posts](/posts).
+
+<SubNav/>
+
+<ListPosts type="note"/>
