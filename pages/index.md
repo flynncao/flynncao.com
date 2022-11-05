@@ -11,7 +11,7 @@ Studying at [University of Malaya](https://www.um.edu.my/).
 
 Implementing all kinds of whimsy and making life easier through programming is my guide to action. You can find my [full projects list here](/projects).
 
-Outside of programming, I enjoy traveling and am an ACGN enthusiast. Some of my photos can be found on [Instagram](https://www.instagram.com/flynncao365).
+Outside of programming, I enjoy traveling and am an ACGN enthusiast. Some of my photos can be found on [Instagram](https://www.instagram.com/realflynncao).
 
 ---
 
