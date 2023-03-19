@@ -11,14 +11,19 @@ import { isDark } from '~/logics'
 		<nav class="nav">
 			<div class="spacer" />
 			<div class="right">
+				<router-link to="/" title="Home">
+					<span class="lt-md:hidden">Home</span>
+					<div i-material-symbols-home class="md:hidden" />
+				</router-link>
 				<router-link to="/posts" title="Blog">
 					<span class="lt-md:hidden">Blog</span>
 					<div i-ri-article-line md:hidden />
 				</router-link>
-				<router-link to="/projects" title="Projects">
+		
+				<!-- <router-link to="/projects" title="Projects">
 					<span class="lt-md:hidden">Projects</span>
 					<div i-ri-lightbulb-line class="md:hidden" />
-				</router-link>
+				</router-link> -->
 				<!-- <router-link to="/talks" class="lt-md:hidden" title="Talks">
 					Talks
 				</router-link>
@@ -41,7 +46,7 @@ import { isDark } from '~/logics'
 				<!-- <router-link to="/sponsors-list" title="Sponsors">
 					<div i-ri-heart-line />
 				</router-link> -->
-				<a href="https://twitter.com/flynnchao99" target="_blank" title="Twitter" class="lt-md:hidden">
+				<a href="https://twitter.com/real_flynncao" target="_blank" title="Twitter" class="lt-md:hidden">
 					<feather-twitter />
 				</a>
 				<a href="https://github.com/flynncao" target="_blank" title="GitHub" class="lt-md:hidden">

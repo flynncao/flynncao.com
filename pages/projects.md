@@ -15,11 +15,11 @@ projects:
       link: 'https://github.com/FlynnCao/week-count-web'
       desc: 'Indicate which week is it now on your devices.'
       icon: 'i-material-symbols-calendar-month'
-  StarterTemplate:
-    - name: 'vite-h2o'
-      link: 'https://github.com/flynncao/vite-h2o'
-      desc: 'Starer template based on Vite, Vue3 and Typescript.'
-      icon: 'i-icon-park-twotone-water'
+  Clone:
+    - name: 'apple-clone'
+      link: 'https://github.com/FlynnCao/apple-clone'
+      desc: 'Yet another Apple official website.'
+      icon: 'i-ic-baseline-apple'
   Video:
     - name: 'h265web-vue-demo'
       link: 'https://github.com/unjs/h265web_vue_demo'
@@ -31,7 +31,6 @@ projects:
       desc: ' Cute and Lovely HTML5 Music Player.'
       icon: 'i-akar-icons-music-album-fill'
 ---
-
 
 <ListProjects :projects="frontmatter.projects"/>
 

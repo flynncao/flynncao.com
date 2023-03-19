@@ -14,5 +14,6 @@
       "code": "ELIFECYCLE",
       "stack": "pnpm: @ dev: `vite --port 3333 --open`\nExit status 1\n    at EventEmitter.<anonymous> (C:\\Users\\Flynn\\.node\\corepack\\pnpm\\7.1.7\\dist\\pnpm.cjs:106952:20)\n    at EventEmitter.emit (node:events:526:28)\n    at ChildProcess.<anonymous> (C:\\Users\\Flynn\\.node\\corepack\\pnpm\\7.1.7\\dist\\pnpm.cjs:93518:18)\n    at ChildProcess.emit (node:events:526:28)\n    at maybeClose (node:internal/child_process:1092:16)\n    at Process.ChildProcess._handle.onexit (node:internal/child_process:302:5)"
     }
-  }
+  },
+  "2 warn pnpm:global": " Local package.json exists, but node_modules missing, did you mean to install?"
 }
