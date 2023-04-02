@@ -23,7 +23,7 @@ Find me on [GitHub](https://github.com/flynncao), , or [Linkedin](https://www.li
 
 ### Yet another blog
 
-如果你懂中文且想了解更多关于 CS/SE、前端全栈、语言学习、效率等想法的更新<br>可以订阅我的[xlog 博客](https://maji-may-7766.xlog.app/).
+中文博客(https://maji-may-7766.xlog.app/).
 
 ### Contact Me
 
