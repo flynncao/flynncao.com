@@ -5,8 +5,6 @@ plum: true
 
 Hey, I am Flynn Cao, a frontend and full stack developer.
 
-Team member of [Cetus-Dev](http://cetus.site/)
-
 Studying at University of Malaya (MSE Programme).
 
 Open-source contribution and projects participated of mine can be found on [GitHub](https://github.com/flynncao).
