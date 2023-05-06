@@ -9,20 +9,25 @@ Studying at University of Malaya (MSE Programme).
 
 Open-source contribution and projects participated of mine can be found on [GitHub](https://github.com/flynncao).
 
+
+Outside of programming, I <del>enjoy traveling, and</del> am an [ACG](https://anilist.co/user/flynncao/) enthusiast.
+
+<br>
+
+Find me on [GitHub](https://github.com/flynncao), [Twitter](https://twitter.com/real_flynncao), [Linkedin](https://www.linkedin.com/in/zhenfei-cao-960b8b252/), [Youtube](https://www.youtube.com/@flynncao/about).
+
+
+Contact me at [s2142499@siswa.um.edu.my](mailto:s2142499@siswa.um.edu.my) or dm me via [Telegram](https://t.me/weclove2008/) / [Discord](https://discord.com/users/0531).<br>
+
 ---
 
-### Social Links
+中文博客：https://flynncao.xlog.app/
 
-Outside of programming, I enjoy traveling and am an ACGN enthusiast. Some of my photos can be found on [Instagram](https://www.instagram.com/realflynncao).
 
-Daily activities can be found on[Twitter](https://twitter.com/real_flynncao)
 
-Find me on [GitHub](https://github.com/flynncao), , or [Linkedin](https://www.linkedin.com/in/zhenfei-cao-960b8b252/).
 
-### Yet another blog
 
-中文博客(https://maji-may-7766.xlog.app/).
 
-### Contact Me
 
-Mail me at [s2142499@siswa.um.edu.my](mailto:s2142499@siswa.um.edu.my) or dm me via [Telegram](https://t.me/weclove2008/).<br>
+
+
